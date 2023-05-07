@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Articles
 //
-//  Created by Даниил Скибинский on 08.05.2023.
+//  Created by Даниил Скибинский
 //
 
 import UIKit
